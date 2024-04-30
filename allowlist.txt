@@ -1,4 +1,2 @@
-sentry.io
 *.sentry.io
-sentry-cdn.com
-*.sentry-cdn.com
+s1.sentry-cdn.com
