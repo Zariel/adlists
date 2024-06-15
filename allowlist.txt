@@ -1,2 +1,3 @@
 *.sentry.io
 s1.sentry-cdn.com
+consent.cookiebot.com
