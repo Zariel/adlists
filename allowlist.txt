@@ -3,3 +3,4 @@ s1.sentry-cdn.com
 consent.cookiebot.com
 datadoghq.com
 www.datadoghq.com
+geoguessr.com
