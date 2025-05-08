@@ -4,3 +4,5 @@ consent.cookiebot.com
 datadoghq.com
 www.datadoghq.com
 geoguessr.com
+split.io
+*.split.io
