@@ -8,3 +8,5 @@ split.io
 *.split.io
 cdn.cookielaw.org
 cookielaw.org
+*.ably.io
+ably.io
